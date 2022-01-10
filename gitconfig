@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicolas.delfour@me.com
+	name = Nicolas Delfour
